@@ -1,6 +1,8 @@
 public class test1{
   public static void main(String[]args){
-    System.out.println("this is a test repository for jenkins");
+    int i=434;
+    int b=33;
+    System.out.println("i is "+i);
   }
 }
     
